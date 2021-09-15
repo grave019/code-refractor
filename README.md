@@ -1,4 +1,4 @@
-#<Code Refractor Project>
+<Code Refractor Project>
 
 ## Refractoring a website using semantic elements.
 
