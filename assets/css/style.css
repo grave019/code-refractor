@@ -1,13 +1,14 @@
+/* style applies to everything */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-
+/* style applies to body */
 body {
     background-color: #d9dcd6;
 }
-
+/* following styles apply to header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,11 +48,11 @@ a:hover {
     display: block;
 
 }
-
+/* style applies to all p elements */
 p {
     font-size: 16px;
 }
-
+/*style applies to figure semantic element */
 figure {
     height: 800px;
     width: 100%;
@@ -137,10 +138,7 @@ aside {
     max-width: 150px;
 }
 
-.hero:hover {
-    font-size: larger;
-    color:#077fca
-}
+
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -195,6 +193,7 @@ aside {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* styles related to footer semantic element */
 
 footer {
     padding: 30px;
