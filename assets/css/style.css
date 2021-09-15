@@ -104,16 +104,9 @@ main {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+main img {
     max-height: 200px;
-}
 
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
 }
 
 .search-engine-optimization h2 {
@@ -130,8 +123,8 @@ main {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* styles apply to aside semantic elements  */
-aside {
+/* styles apply to article and aside semantic elements  */
+article {
     margin-right: 20px;
     padding: 20px;
     clear: both;
