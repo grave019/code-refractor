@@ -1,4 +1,7 @@
-<Code Refractor Project>
+<Code Refractor Project>!
+ 
+ [IMG_1921](https://user-images.githubusercontent.com/88346351/133668752-c673a0dc-e81f-4757-90b2-14a824c57ade.jpg)
+
 
 ## Refractoring a website using semantic elements.
 
