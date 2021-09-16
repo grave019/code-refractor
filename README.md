@@ -9,6 +9,7 @@
 5. Knowledge Gained
 6. Image of Horiseon Website
 7. Link to the Web Page
+8. Credits
 
 ### 1. Overview
 Refractoring website using semantic elements and simplifying CSS.
@@ -34,3 +35,6 @@ In addition, I replaced div elements with the following semantic elements: -head
 
 ### 7. Link to the Web Page
   Click the following link to visit the website [Horiseon Refractored Code](https://grave019.github.io/code-refractor/)
+
+### 8. Credits
+Thank you for taking the time to view my code refractor project. If you have any ideas on how to make the website better please feel free to submit a pull request.
