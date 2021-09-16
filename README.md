@@ -30,7 +30,7 @@ In addition, I replaced div elements with the following semantic elements: -head
  This project is significant because the website code is improved from the greatly from the original website. It should be noted that I frequently pushed my work to github with comments. I pushed my work to github over 40 times. I believe this shows I am actively working to become a better coder.
 
 ### 6. Image of Horiseon Website
-![Image of the Horiseon complete website](./assets/images/horiseon_website_screenshot.jpeg)
+![Image of the Horiseon complete website](./assets/images/horiseon_website_screenshot.jpg)
 
 ### 7. Link to the Web Page
   Click the following link to visit the website [Horiseon Refractored Code](https://grave019.github.io/code-refractor/)
