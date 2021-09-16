@@ -43,11 +43,6 @@ a {
     color: #ffffff;
     text-decoration: none;
 }
-
-a:hover {
-    display: block;
-
-}
 /* style applies to all p elements */
 p {
     font-size: 16px;
@@ -70,13 +65,13 @@ main {
     margin-left: 20px;
 }
 /* styles apply to section semantic elements */
-section 
-{margin-bottom: 20px;
-padding: 50px;
-height: 300px;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-background-color: #077fca;
-color: #ffffff;
+section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #077fca;
+    color: #ffffff;
 }
 
 section img {
@@ -97,7 +92,7 @@ section h2 {
     float: right;
     margin-left: 25px;
 }
-/* styles apply to article sementic Elements*/
+/* styles apply to article sementic Elements */
 article {
     margin-right: 20px;
     padding: 20px;
