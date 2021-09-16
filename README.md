@@ -3,7 +3,7 @@
  [IMG_1921](https://user-images.githubusercontent.com/88346351/133668752-c673a0dc-e81f-4757-90b2-14a824c57ade.jpg)
 
 
-## Refractoring a website using semantic elements.
+## Refractoring website project using semantic elements and connecting them to CSS.
 
 The goal of this project was refractor a website using semantic elements. I simplified the html and CSS and replaced it with code that is easier to read and follow. This project allowed me to grow my skills as a coder. I simplified overyly complex code and fixed internal page links so that the page is more assessable for navigation. I added alt attributes to the images to make the content more assessable. 
 
